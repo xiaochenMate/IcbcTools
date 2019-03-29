@@ -1,8 +1,5 @@
 apply plugin: 'com.android.application'
 apply from: 'doraemonkit.gradle'
-apply plugin: 'com.github.dcendents.android-maven'
-
-group='com.github.xiaochenMate'
 android {
     compileSdkVersion 26
     defaultConfig {
